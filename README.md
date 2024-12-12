@@ -1,5 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+NAME: RANJANA
+REF NO:24013649
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -35,16 +36,17 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+![Screenshot (17)](https://github.com/user-attachments/assets/1d75d8ed-f5c3-4a0e-920b-78ca8376ca6b)
 
-
-**RTL realization**
-
-**Output:**
+**TRUTH TABLE**
+![Screenshot (20)](https://github.com/user-attachments/assets/d4cb9041-7590-4a40-b438-5a30019faffb)
 
 **RTL**
 
+![Screenshot (18)](https://github.com/user-attachments/assets/3f24243e-6029-448a-bdb1-165c567cec7e)
+
 **Timing Diagram**
+![Screenshot (19)](https://github.com/user-attachments/assets/456bce20-fd4b-46d3-b176-33d250d9f2ba)
 
 **Result:**
 
