@@ -1,6 +1,11 @@
+**NAME RANJANA R**
+
+**REGISTER NO: 212224040270**
+
+**EXPERIMENT 2**
+
 # BOOLEAN_FUNCTION_MINIMIZATION
-NAME: RANJANA
-REF NO:24013649
+
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
