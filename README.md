@@ -4,7 +4,7 @@
 
 **EXPERIMENT 2**
 
-# BOOLEAN_FUNCTION_MINIMIZATION
+# IMPLEMENTATION OF BOOLEAN FUNCTION MINIMIZATION
 
 **AIM:**
 
@@ -51,7 +51,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![Screenshot (18)](https://github.com/user-attachments/assets/3f24243e-6029-448a-bdb1-165c567cec7e)
 
 **Timing Diagram**
-![Screenshot (19)](https://github.com/user-attachments/assets/456bce20-fd4b-46d3-b176-33d250d9f2ba)
+![Screenshot (12)](https://github.com/user-attachments/assets/c6a6cf08-4010-4866-b9f3-6de6ef40ba07)
 
 **Result:**
 
